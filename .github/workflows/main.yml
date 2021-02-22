@@ -3,9 +3,8 @@ name: firstbot
 
 
 on:
-  push:
-#   schedule:
-#     - cron: '05 12 * * *'
+  schedule:
+    - cron: '15 12 * * *'
     
 jobs:
   build:
