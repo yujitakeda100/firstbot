@@ -4,7 +4,7 @@ name: firstbot
 
 on:
   schedule:
-    - cron: '28 21 * * *'
+    - cron: '34 12 * * *'
     
 jobs:
   build:
