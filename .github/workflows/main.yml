@@ -5,7 +5,7 @@ name: firstbot
 on:
   push:
   schedule:
-    - cron: '02 13 * * *'
+    - cron: '12 13 * * *'
     
     
 jobs:
